@@ -505,7 +505,13 @@ li{
     margin-bottom: 28px;
 }
 .footer_menu{
-    width: 208px;
+    margin-right: 76px;
+}
+.footer_menu:first-child{
+    margin-right: 132px;
+}
+.footer_menu1{
+    margin-right: 92px;
 }
 .footer_logo{
     width: 160px;
@@ -520,7 +526,7 @@ li{
     color: #E6B939;
 }
 .footer_menu_link{
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 400;
     color: #FFFFFF;
     transition: 0.3s;
@@ -545,14 +551,14 @@ li{
     letter-spacing: 2px;
 }
 .newsletter_subtitle{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     width: 450px;
     color: #FAFAFC;
     margin-bottom: 10px;
 }
 .footer_text{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: #FFFFFF;
 }
@@ -561,7 +567,7 @@ li{
     transition: 0.3s;
 }
 .footer_input{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: #575445;
     width: 458px;
@@ -571,7 +577,7 @@ li{
     padding-left: 34px;
 }
 .footer_input::placeholder{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: #575445;
 }
@@ -582,7 +588,7 @@ li{
     border-style: none;
     border-radius: 10px;
     margin-left: -85px;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: #FFFFFF;
     cursor: pointer;
